@@ -1,7 +1,7 @@
-=== WooCommerce Quick Links ===
+=== EDD Quick Links ===
 Contributors: waseem_senjer, wprubyplugins
 Donate link: https://wpruby.com
-Tags: woocommerce,admin,quick links,admin toolbar,toolbar
+Tags: edd,easy digital downloads,admin,quick links,admin toolbar,toolbar
 Requires at least: 3.5.1
 Tested up to: 4.5.2
 Stable tag: 1.0.0
@@ -21,7 +21,7 @@ Reach payment gateways, shipping methods, and reports right from the dashboard t
 = Using The WordPress Dashboard =
 
 1. Navigate to the 'Add New' in the plugins dashboard
-2. Search for 'WooCommerce Quick Links'
+2. Search for 'EDD Quick Links'
 3. Click 'Install Now'
 4. Activate the plugin on the Plugin dashboard
 
@@ -29,15 +29,15 @@ Reach payment gateways, shipping methods, and reports right from the dashboard t
 
 1. Navigate to the 'Add New' in the plugins dashboard
 2. Navigate to the 'Upload' area
-3. Select `quick-links-woocommerce.zip` from your computer
+3. Select `quick-links-edd.zip` from your computer
 4. Click 'Install Now'
 5. Activate the plugin in the Plugin dashboard
 
 = Using FTP =
 
-1. Download `quick-links-woocommerce.zip`
-2. Extract the `quick-links-woocommerce` directory to your computer
-3. Upload the `quick-links-woocommerce` directory to the `/wp-content/plugins/` directory
+1. Download `quick-links-edd,easy digital downloads.zip`
+2. Extract the `quick-links-edd,easy digital downloads` directory to your computer
+3. Upload the `quick-links-edd,easy digital downloads` directory to the `/wp-content/plugins/` directory
 4. Activate the plugin in the Plugin dashboard
 
 
