@@ -8,10 +8,10 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Reach payment gateways, shipping methods, and reports right from the dashboard toolbar.
+Reach payment gateways, payment history, and reports right from the dashboard toolbar.
 
 == Description ==
-Reach payment gateways, shipping methods, and reports right from the dashboard toolbar.
+Reach payment gateways, payment history, and reports right from the dashboard toolbar.
 
 
 == Installation ==
