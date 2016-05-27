@@ -188,13 +188,13 @@ if(eql_is_edd_active()){
 		$admin_bar->add_menu( array(
 			'id'    => 'eql_settings_currency_settings_menu',
 			'title' => __('Currency Settings','easy-digital-downloads'),
-			'href'  => admin_url('edit.php?post_type=download&page=edd-settings&tab=currency'),
+			'href'  => admin_url('edit.php?post_type=download&page=edd-settings&tab=general&section=currency'),
 			'parent'=> 'eql_settings_general_menu'
 		));
 		$admin_bar->add_menu( array(
 			'id'    => 'eql_settings_api_settings_menu',
 			'title' => __('API Settings','easy-digital-downloads'),
-			'href'  => admin_url('edit.php?post_type=download&page=edd-settings&tab=api'),
+			'href'  => admin_url('edit.php?post_type=download&page=edd-settings&tab=general&section=api'),
 			'parent'=> 'eql_settings_general_menu'
 		));	
 		$admin_bar->add_menu( array(
@@ -243,13 +243,13 @@ if(eql_is_edd_active()){
 		));	
 		$admin_bar->add_menu( array(
 			'id'    => 'eql_settings_styles_menu',
-			'title' => __('Style Settings','easy-digital-downloads'),
+			'title' => __('Styles','easy-digital-downloads'),
 			'href'  => admin_url('edit.php?post_type=download&page=edd-settings&tab=styles'),
 			'parent'=> 'eql_settings_menu'
 		));	
 		$admin_bar->add_menu( array(
 			'id'    => 'eql_settings_taxes_menu',
-			'title' => __('Taxes Settings','easy-digital-downloads'),
+			'title' => __('Taxes','easy-digital-downloads'),
 			'href'  => admin_url('edit.php?post_type=download&page=edd-settings&tab=taxes'),
 			'parent'=> 'eql_settings_menu'
 		));	
