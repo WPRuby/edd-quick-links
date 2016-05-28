@@ -8,10 +8,10 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Reach payment gateways, payment history, and reports right from the dashboard toolbar.
+Reach the Easy Digital Downloads payment gateways, payment history, and reports right from the dashboard toolbar.
 
 == Description ==
-Reach payment gateways, payment history, and reports right from the dashboard toolbar.
+Reach the Easy Digital Downloads payment gateways, payment history, and reports right from the dashboard toolbar.
 
 
 == Installation ==
@@ -29,19 +29,20 @@ Reach payment gateways, payment history, and reports right from the dashboard to
 
 1. Navigate to the 'Add New' in the plugins dashboard
 2. Navigate to the 'Upload' area
-3. Select `quick-links-edd.zip` from your computer
+3. Select `edd-quick-links.zip` from your computer
 4. Click 'Install Now'
 5. Activate the plugin in the Plugin dashboard
 
 = Using FTP =
 
-1. Download `quick-links-edd,easy digital downloads.zip`
-2. Extract the `quick-links-edd,easy digital downloads` directory to your computer
-3. Upload the `quick-links-edd,easy digital downloads` directory to the `/wp-content/plugins/` directory
+1. Download `edd-quick-links`
+2. Extract the `edd-quick-links` directory to your computer
+3. Upload the `edd-quick-links` directory to the `/wp-content/plugins/` directory
 4. Activate the plugin in the Plugin dashboard
 
 
-
+== Screenshots ==
+1. Quick access to all the EDD pages from the admin toolbar.
 
 == Changelog ==
 
